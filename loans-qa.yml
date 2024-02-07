@@ -9,8 +9,8 @@ build:
 loans:
   message: "Welcome to EazyBank loans related QA APIs "
   contactDetails:
-    name: "Shiril - Associate"
-    email: "shiril@eazybank.com"
+    name: "{cipher}23df73175bc57ecc38366b4ad88e2d5bced55d1c5813370128b4d696e02616902bccf1497a7dc4dd95d7df2c5f21291e"
+    email: "{cipher}7f57a1c8c1ffe365a209ec31f7a07d4079884c77e9bffcf0354385ea3e1485e06d4df75663ac25c5edccf440394b7767"
   onCallSupport:
     - (666) 232-8865
     - (666) 778-5671
