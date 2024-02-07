@@ -9,8 +9,8 @@ build:
 loans:
   message: "Welcome to EazyBank loans related prod APIs "
   contactDetails:
-    name: "Vasishth - Line Manager"
-    email: "vasishth@eazybank.com"
+    name: "{cipher}d4b41f13dd2b249f3563e975bac7497c1278995e5a6503851ed4b311b07fe3159f8b1994c7a63d82309a9c62b39e63e0"
+    email: "{cipher}b306c24c226d089fd5ad8eefce7dad41534e73bbfe59ba76e12c691d5cf917978384ba47cbd265e696c349b98f69ab7d"
   onCallSupport:
     - (453) 789-2349
     - (236) 563-4584
