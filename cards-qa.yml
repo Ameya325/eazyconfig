@@ -1,0 +1,16 @@
+spring:
+  config:
+    activate:
+      on-profile: "qa"
+
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to EazyBank cards related QA APIs "
+  contactDetails:
+    name: "Sugar Ray - QA Lead"
+    email: "sugar@eazybank.com"
+  onCallSupport:
+    - (666) 715-3445
+    - (666) 164-8321

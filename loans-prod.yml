@@ -1,0 +1,16 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to EazyBank loans related prod APIs "
+  contactDetails:
+    name: "Vasishth - Line Manager"
+    email: "vasishth@eazybank.com"
+  onCallSupport:
+    - (453) 789-2349
+    - (236) 563-4584

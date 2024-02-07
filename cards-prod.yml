@@ -1,0 +1,16 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to EazyBank cards related prod APIs "
+  contactDetails:
+    name: "Ravi Kanth - Manager"
+    email: "ravi@eazybank.com"
+  onCallSupport:
+    - (453) 312-4319
+    - (236) 273-0454
