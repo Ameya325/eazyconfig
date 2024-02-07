@@ -9,8 +9,8 @@ build:
 cards:
   message: "Welcome to EazyBank cards related QA APIs "
   contactDetails:
-    name: "Sugar Ray - QA Lead"
-    email: "sugar@eazybank.com"
+    name: "{cipher}d9d90724a68ebeb4c322c83856862a7eb49044e52c03c828311aa03607210ff7ce12edc0e92bbf004b4aa0509abbc00e"
+    email: "{cipher}01bc00e932f0f281669e136e2bb074680cd20ca55fcb43b5eb3cdd3a5c2cd5fb6515e4234e39aca226b85bf02b6c94c6"
   onCallSupport:
     - (666) 715-3445
     - (666) 164-8321
