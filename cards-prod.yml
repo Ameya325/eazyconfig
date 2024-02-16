@@ -7,7 +7,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to EazyBank cards related webhook APIs "
+  message: "Welcome to EazyBank cards related prod APIs "
   contactDetails:
     name: "{cipher}1d2583406f46e4c04c371ef60ffb720ec3de53e410988d8db3e9b31bd68eb88214e04c273eddbb27c60a89b6bbeaac52"
     email: "{cipher}0bb73bcf7f8efc66a04863d43c68a17660eebd05b8a0644a3f42b7f57d9ef824249f3c4d1501128d68fb10d5415b5da0"
