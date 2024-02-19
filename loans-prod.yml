@@ -7,7 +7,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to EazyBank loans related docker prod APIs "
+  message: "Welcome to EazyBank loans related DOCKER APIs "
   contactDetails:
     name: "{cipher}e15b902aa1fd7f89a1f4fe7398b2a6f5fae56c6284638e452da3a10f3faed89a2c2f151fbadb82d6c45860acfee479a0"
     email: "{cipher}e1a0bb105758dcb572b255cbe5f444e304e13866f716325ee877b8b10b5dd8ea614e6be9e8bd091d60d358b7653163fe"
